@@ -1977,7 +1977,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #5ca3e8;
+				background-color: #928ef5;
 			}
 
 			input[type="submit"].primary:active,
@@ -3182,7 +3182,7 @@ input, select, textarea {
 					.wrapper.style2 input[type="button"].primary:hover,
 					.wrapper.style2 button.primary:hover,
 					.wrapper.style2 .button.primary:hover {
-						background-color: #5ca3e8;
+						background-color: #928ef5;
 					}
 
 					.wrapper.style2 input[type="submit"].primary:active,
@@ -3396,7 +3396,7 @@ input, select, textarea {
 					.wrapper.style3 input[type="button"].primary:hover,
 					.wrapper.style3 button.primary:hover,
 					.wrapper.style3 .button.primary:hover {
-						background-color: #5ca3e8;
+						background-color: #928ef5;
 					}
 
 					.wrapper.style3 input[type="submit"].primary:active,
